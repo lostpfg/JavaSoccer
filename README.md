@@ -1,4 +1,4 @@
-# JavaSoccer v 0.7
+# JavaSoccer v0.7
 Minimalistic 2-d Soccer Simulator written in Java. 
 All graphics are generated using AWT and Swing paint mechanisms.
 At this point several bugs may occur.
